@@ -6,6 +6,9 @@ computation and tracking of those.
 
 Do take note that our program wont be able to handle free hosting as we have sql triggers that requires paid hosting to work.
 
+# How to Use
+Extract the node_modules.rar in the Prototype folder
+
 # Account Logon
 Default Credentials:
   - Username: admin
