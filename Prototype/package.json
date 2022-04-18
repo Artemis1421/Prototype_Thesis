@@ -1,0 +1,28 @@
+{
+  "name": "Projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build tailwind.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grawls/Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawls/Projects/issues"
+  },
+  "homepage": "https://github.com/grawls/Projects#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.2"
+  }
+}
