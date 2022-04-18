@@ -8,5 +8,5 @@ Do take note that our program wont be able to handle free hosting as we have sql
 
 # Account Logon
 Default Credentials:
-Username: admin
-Password: admin
+  - Username: admin
+  - Password: admin
